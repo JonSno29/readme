@@ -1,7 +1,12 @@
 <div align="center" id="top">
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
-  
+  ## USER STORY/OVERVIEW
+
+As a traveler I want an application that can document the cities I plan to travel to and provide me 
+
+the projected weather for those cities. I want an account to be able to add and remove places and save them in a trip planner.
+
   ## TABLE OF CONTENTS:
 
 🎗 [Installation](#installation)          🎗 [Dependencies](#dependencies)           🎗 [License](#license)              🎗 [Contribute](#contribute)
