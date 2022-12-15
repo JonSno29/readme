@@ -1,15 +1,15 @@
 <div align="center" id="top">
-  <img width="500px" height="300px" src="welcome.svg"/>
+  <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
-  <div align="center" id="top">
-<img width="500px" height="300px" src="android-chrome-512x512.png"/> 
-</div>
+  
+  ## Table of Contents
+
+* [Installation](#installation)          * [Dependencies](#dependencies)           * [License](#license)              * [Contributing](#contributing)
+
+* [Credits](#credits)                    * [Tests](#tests)           * [Contact Us](#contact Us)
 
 
-<p text align ="center">
- <a href="#"></p> </a>
-
-
+## INSTALLATION:
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -58,6 +58,30 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
+
+## DEPENDENCIES:
+
+
+```bash
+# "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "handlebars": "^4.7.7",
+    "heroku": "^7.67.1",
+    "mysql2": "^2.3.3",
+    "node": "^19.2.0",
+    "nodemon": "^2.0.20",
+    "normalize.css": "^8.0.1",
+    "phoenix": "^1.6.15",
+    "require": "^2.4.20",
+    "seeds": "^2.3.1",
+    "sequelize": "^6.27.0"
+# The server will initialize in the <http://localhost:3001>
+```
+
  
    
 ## CONTACT US:
@@ -69,3 +93,9 @@
 <a href="https://github.com/timothywardlow" target="_blank"><img src="https://img.shields.io/badge/Github-timothywardlow-red?style=for-the-badge&logo=github"></a>
 
 <a href="https://github.com/asimmons03" target="_blank"><img src="https://img.shields.io/badge/Github-asimmons03-green?style=for-the-badge&logo=github"></a>
+
+ <footer>
+ <div align="center" id="top">
+<img width="600px" height="300px" src="android-chrome-512x512.png"/> 
+</div>
+</footer>
