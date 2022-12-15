@@ -1,14 +1,13 @@
 <div align="center" id="top">
-<img width="500px" src="android-chrome-512x512.png"/> 
+  <img width="500px" height="300px" src="welcome.svg"/>
   </div> 
-
+  <div align="center" id="top">
+<img width="500px" height="300px" src="android-chrome-512x512.png"/> 
+</div>
 
 
 <p text align ="center">
-  <img width="500px" height="300px" src="welcome.svg"/> </a>
-</p>
-
- <a href="#">
+ <a href="#"></p> </a>
 
 
 
