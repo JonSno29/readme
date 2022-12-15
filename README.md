@@ -2,7 +2,7 @@
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
   
-  ## Table of Contents
+  ## TABLE OF CONTENTS:
 
 * [Installation](#installation)          * [Dependencies](#dependencies)           * [License](#license)              * [Contributing](#contributing)
 
@@ -69,8 +69,18 @@ OUR SLIDESHOW:
 
 https://docs.google.com/presentation/d/1S2xHH_s0Z9l7G_RmWtcCa_WFnUHE2G7x43-6d2t5Y6U/edit#slide=id.g1b8cd3d60d1_0_0
 
+## CREDITS
 
-## DEPENDENCIES:
+Jon Snover/  https://github.com/JonSno29
+
+Jess Porter/ https://github.com/jgporter24
+
+Anderw Simmons/ https://github.com/asimmons03
+
+Timothy Wardlow/ https://github.com/timothywardlow
+
+  
+  ## DEPENDENCIES:
 
 
 ```bash
@@ -92,7 +102,9 @@ https://docs.google.com/presentation/d/1S2xHH_s0Z9l7G_RmWtcCa_WFnUHE2G7x43-6d2t5
     "sequelize": "^6.27.0"
 # The server will initialize in the <http://localhost:3001>
 ```
+## LICENSE
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
    
 ## CONTACT US:
