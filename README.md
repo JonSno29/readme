@@ -1,8 +1,12 @@
 # TRIPPIE!
 
+
+
 <p align ="center">
   <a href="#"> <img src="welcome.svg"/> </a>
 </p>
+
+
 
 
 
