@@ -6,7 +6,7 @@
 
 * [Installation](#installation)          * [Dependencies](#dependencies)           * [License](#license)              * [Contributing](#contributing)
 
-* [Live link](#live link)                    * [Tests](#tests)           * [Contact Us](#contact Us)
+* [Livelink](#livelink)                    * [Tests](#tests)           * [Contact Us](#contact Us)
 
 
 ## INSTALLATION:
