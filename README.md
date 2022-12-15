@@ -4,11 +4,7 @@
   
   ## USER STORY/OVERVIEW:
 
-As a traveler I want an application that can document the cities 
 
-I plan to travel to and provide me the projected weather for those cities. 
-
-I want an account to be able to add and remove places and save them in a trip planner.
 
   ## TABLE OF CONTENTS:
 
@@ -68,21 +64,15 @@ I want an account to be able to add and remove places and save them in a trip pl
 
 🎗 GITHUB REPO:
 
-   <https://github.com/jgporter24/Trippie.git>
+   <https://github.com/
 
-🎗 OUR SLIDESHOW:
-
-   https://docs.google.com/presentation/d/1S2xHH_s0Z9l7G_RmWtcCa_WFnUHE2G7x43-6d2t5Y6U/edit#slide=id.g1b8cd3d60d1_0_0
+🎗 
 
 ## CREDITS:
 
 🎗 Jon Snover/https://github.com/JonSno29
 
-🎗 Jess Porter/https://github.com/jgporter24
 
-🎗 Anderw Simmons/https://github.com/asimmons03
-
-🎗 Timothy Wardlow/https://github.com/timothy-wardlow
 
   
   ## DEPENDENCIES:
@@ -131,11 +121,6 @@ I want an account to be able to add and remove places and save them in a trip pl
 
 <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-<a href="https://github.com/jgporter24" target="_blank"><img src="https://img.shields.io/badge/Github-jgporter24-green?style=for-the-badge&logo=github"></a>
-
-<a href="https://github.com/timothy-wardlow" target="_blank"><img src="https://img.shields.io/badge/Github-timothywardlow-red?style=for-the-badge&logo=github"></a>
-
-<a href="https://github.com/asimmons03" target="_blank"><img src="https://img.shields.io/badge/Github-asimmons03-green?style=for-the-badge&logo=github"></a>
 
  <footer>
  <div align="center" id="top">
