@@ -1,12 +1,13 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='100px 100px 300px 125px'
+    viewBox='200px 1200px 300px 125px'
     style='background-color: #00000000;'
     width='300px' height='125px'>
 
     <style>
 	@font-face {
+	  color: aqua;
 	  font-family: 'Lobster';
 	  font-style: large;
 	  font-weight: 800;
