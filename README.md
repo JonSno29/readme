@@ -4,8 +4,8 @@
 
 
 
-<p align ="center">
-  <img width="400px" height="200px" src="welcome.svg"/> </a>
+<p text align ="center">
+  <img width="500px" height="300px" src="welcome.svg"/> </a>
 </p>
 
  <a href="#">
