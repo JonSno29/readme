@@ -4,9 +4,9 @@
   
   ## TABLE OF CONTENTS:
 
-* [Installation](#installation)          * [Dependencies](#dependencies)           * [License](#license)              * [Contributing](#contributing)
+🎗 [Installation](#installation)          🎗 [Dependencies](#dependencies)           🎗 [License](#license)              🎗 [Contribute](#contribute)
 
-* [Livelink](#livelink)                    * [Tests](#tests)           * [Contact Us](#contact Us)
+🎗 [Live link](#live link)                 🎗 [Tests](#tests)                         🎗 [Contact Us](#contact Us)
 
 
 ## INSTALLATION:
@@ -59,25 +59,25 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
   
-  ## LIVE LINK
+ ## LIVE LINK:
 
-GITHUB REPO:
+🎗 GITHUB REPO:
 
-<https://github.com/jgporter24/Trippie.git>
+   <https://github.com/jgporter24/Trippie.git>
 
-OUR SLIDESHOW:
+🎗 OUR SLIDESHOW:
 
-https://docs.google.com/presentation/d/1S2xHH_s0Z9l7G_RmWtcCa_WFnUHE2G7x43-6d2t5Y6U/edit#slide=id.g1b8cd3d60d1_0_0
+   https://docs.google.com/presentation/d/1S2xHH_s0Z9l7G_RmWtcCa_WFnUHE2G7x43-6d2t5Y6U/edit#slide=id.g1b8cd3d60d1_0_0
 
-## CREDITS
+## CREDITS:
 
-Jon Snover/  https://github.com/JonSno29
+🎗 Jon Snover/https://github.com/JonSno29
 
-Jess Porter/ https://github.com/jgporter24
+🎗 Jess Porter/https://github.com/jgporter24
 
-Anderw Simmons/ https://github.com/asimmons03
+🎗 Anderw Simmons/https://github.com/asimmons03
 
-Timothy Wardlow/https://github.com/timothy-wardlow
+🎗 Timothy Wardlow/https://github.com/timothy-wardlow
 
   
   ## DEPENDENCIES:
@@ -106,6 +106,21 @@ Timothy Wardlow/https://github.com/timothy-wardlow
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
+## HOW TO CONTRIBUTE:
+
+🎗 Fork my repositories so I can fork yours:
+
+🎗 Use the "scout rule" to help others.
+
+## TESTS:
+
+🎗 Trial and error
+
+🎗 VScode to test my code
+
+🎗 JEST
+  
+🎗 NPM test
    
 ## CONTACT US:
 
