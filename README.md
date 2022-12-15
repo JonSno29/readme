@@ -1,6 +1,6 @@
- <p align ="top">
-  <a href="#"> <img src="android-chrome-512x512.png"/> </a>
-</p>
+ <div align="center" id="top">
+ <a href="#"> <img src="android-chrome-512x512.png"/> </a>
+</div>
 
 
 
