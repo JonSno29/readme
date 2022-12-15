@@ -77,7 +77,7 @@ Jess Porter/ https://github.com/jgporter24
 
 Anderw Simmons/ https://github.com/asimmons03
 
-Timothy Wardlow/ https://github.com/timothywardlow
+Timothy Wardlow/https://github.com/timothy-wardlow
 
   
   ## DEPENDENCIES:
@@ -113,7 +113,7 @@ Timothy Wardlow/ https://github.com/timothywardlow
 
 <a href="https://github.com/jgporter24" target="_blank"><img src="https://img.shields.io/badge/Github-jgporter24-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://github.com/timothywardlow" target="_blank"><img src="https://img.shields.io/badge/Github-timothywardlow-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/timothy-wardlow" target="_blank"><img src="https://img.shields.io/badge/Github-timothywardlow-red?style=for-the-badge&logo=github"></a>
 
 <a href="https://github.com/asimmons03" target="_blank"><img src="https://img.shields.io/badge/Github-asimmons03-green?style=for-the-badge&logo=github"></a>
 
