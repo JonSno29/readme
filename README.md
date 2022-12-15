@@ -1,5 +1,5 @@
 <p align ="center">
-  <a href="#"> <img src="TRIPPIEBRtsample.png"/> </a>
+  <a href="#"> <img src="TRIPPIE-1 (6).png"/> </a>
 </p>
 
 
