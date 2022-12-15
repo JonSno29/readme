@@ -20,11 +20,11 @@
             values='m0,14.5 h0 ; m0,14.5 h345 ; m0,14.5 h345 ; m0,14.5 h0'
             keyTimes='0;0.72727272727273;0.81818181818182;1' />
 </path>
-    <text font-family='"Lobster", monospace' fill='#249BF3' font-size='25'
+    <text font-family='"Lobster", monospace' fill='#249BF3' font-size='75'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
-         WELCOME  TO👋
+         WELCOME  TO
         </textPath>
     </text>
 
@@ -33,7 +33,7 @@
             values='m0,14.5 h0 ; m0,14.5 h345 ; m0,14.5 h345 ; m0,14.5 h0'
             keyTimes='0;0.72727272727273;0.81818181818182;1' />
     </path>
-    <text font-family='"Lobster", monospace' fill='#249BF3' font-size='25'
+    <text font-family='"Lobster", monospace' fill='#249BF3' font-size='75'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
@@ -46,7 +46,7 @@
             values='m0,14.5 h0 ; m0,14.5 h345 ; m0,14.5 h345 ; m0,14.5 h0'
             keyTimes='0;0.72727272727273;0.81818181818182;1' />
     </path>
-    <text font-family='"Lobster", monospace' fill='#249BF3' font-size='25'
+    <text font-family='"Lobster", monospace' fill='#249BF3' font-size='75'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
