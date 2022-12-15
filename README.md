@@ -1,20 +1,20 @@
 <div align="center" id="top">
   <img width="500px" height="200px" src="welcome.svg"/>
   </div> 
-  ## USER STORY/OVERVIEW
+  
+  ## USER STORY/OVERVIEW:
 
-As a traveler I want an application that can document the cities I plan to travel to and provide me 
+As a traveler I want an application that can document the cities 
 
-the projected weather for those cities. I want an account to be able to add and remove places and save them in a trip planner.
+I plan to travel to and provide me the projected weather for those cities. 
+
+I want an account to be able to add and remove places and save them in a trip planner.
 
   ## TABLE OF CONTENTS:
 
-🎗 [Installation](#installation)          🎗 [Dependencies](#dependencies)           🎗 [License](#license)              🎗 [Contribute](#contribute)
-
-🎗 [Live link](#live link)                 🎗 [Tests](#tests)                         🎗 [Contact Us](#contact Us)
-
-
-## INSTALLATION:
+🎗[INSTALLATION](#installation) 🎗[LICENSE](#license) 🎗[TESTS](#tests) 🎗[DEPENDENCIES](#dependencies) 🎗[CONTRIBUTE](#contribute) 🎗[CONTACT](#contact)                        
+  
+ ## INSTALLATION:
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -107,7 +107,7 @@ the projected weather for those cities. I want an account to be able to add and 
     "sequelize": "^6.27.0"
 # The server will initialize in the <http://localhost:3001>
 ```
-## LICENSE
+## LICENSE:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
