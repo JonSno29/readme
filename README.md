@@ -1,8 +1,11 @@
-# readme
+# TRIPPIE!
 
 <p align ="center">
-  <a href="#"> <img src="/assets/welcome.svg"/> </a>
+  <a href="#"> <img src="welcome.svg"/> </a>
 </p>
+
+
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>FRONT-END</kbd>
