@@ -1,4 +1,4 @@
-<p align ="center">
+<p align ="center-top">
   <a href="#"> <img src="android-chrome-512x512.png"/> </a>
 </p>
 
