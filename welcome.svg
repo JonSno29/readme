@@ -38,7 +38,7 @@
         dominant-baseline='middle'
         x='50%' y='50%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            TRIPPIE!
+          MY
         </textPath>
     </text>
 
@@ -51,7 +51,7 @@
         dominant-baseline='middle'
         x='50%' y='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-            LIFE'S A TRIP!
+            GitHub Profile
         </textPath>
     </text>
 
