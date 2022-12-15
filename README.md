@@ -6,7 +6,7 @@
 
 * [Installation](#installation)          * [Dependencies](#dependencies)           * [License](#license)              * [Contributing](#contributing)
 
-* [Credits](#credits)                    * [Tests](#tests)           * [Contact Us](#contact Us)
+* [Live link](#live link)                    * [Tests](#tests)           * [Contact Us](#contact Us)
 
 
 ## INSTALLATION:
@@ -58,6 +58,17 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </kbd>
+  
+  ## LIVE LINK
+
+GITHUB REPO:
+
+<https://github.com/jgporter24/Trippie.git>
+
+OUR SLIDESHOW:
+
+https://docs.google.com/presentation/d/1S2xHH_s0Z9l7G_RmWtcCa_WFnUHE2G7x43-6d2t5Y6U/edit#slide=id.g1b8cd3d60d1_0_0
+
 
 ## DEPENDENCIES:
 
